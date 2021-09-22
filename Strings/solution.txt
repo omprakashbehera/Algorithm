@@ -3,6 +3,7 @@
 int main() {
     int T;
     scanf("%d",&T);
+printf("starting program");
     while(T--){
         char str[1000];
         scanf("%s",str);
